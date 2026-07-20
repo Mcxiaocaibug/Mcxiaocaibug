@@ -11,11 +11,11 @@
 ### 最近在写
 
 <!-- RECENT_WORK:START -->
+- `07-20 21:12` 在 [AzureDreamWebsite](https://github.com/Mcxiaocaibug/AzureDreamWebsite) 提交 [feat: rebuild site with immersive scroll narrative](https://github.com/Mcxiaocaibug/AzureDreamWebsite/commit/8a0cbbfc19f1fcc12b10c1b671b167d8d489f33c)
+- `07-20 20:12` 在 [Pumpkin](https://github.com/Mcxiaocaibug/Pumpkin) 提交 [refactor(command): derive locate suggestions from generated StructureSet](https://github.com/Mcxiaocaibug/Pumpkin/commit/e36200b7747f9b9fb3e0e83082bd423c82f91bbe)
 - `07-20 16:17` 在 [Pumpkin-MC/Pumpkin](https://github.com/Pumpkin-MC/Pumpkin) 合并 [#2419 fix(block): melt snow layers under high block light](https://github.com/Pumpkin-MC/Pumpkin/pull/2419)
 - `07-19 17:09` 在 [Pumpkin](https://github.com/Mcxiaocaibug/Pumpkin) 提交 [style: apply rustfmt](https://github.com/Mcxiaocaibug/Pumpkin/commit/3ebbb13285340a59ba7023e95d71b2f8ffce7f72)
 - `07-19 17:00` 在 [Pumpkin-MC/Pumpkin](https://github.com/Pumpkin-MC/Pumpkin) 发起 [#2420 feat(command): add /locate structure](https://github.com/Pumpkin-MC/Pumpkin/pull/2420)
-- `07-19 16:58` 在 [Pumpkin-MC/Pumpkin](https://github.com/Pumpkin-MC/Pumpkin) 发起 [#2418 fix(entity): keep adding XP levels past the i32 total experience limit](https://github.com/Pumpkin-MC/Pumpkin/pull/2418)
-- `07-14 17:05` 在 [Uptimer](https://github.com/Mcxiaocaibug/Uptimer) 提交 [Merge pull request #96 from TW641/master](https://github.com/Mcxiaocaibug/Uptimer/commit/e6aac8ae9948c19e7bcac6af9e972c44f0c9bc8c)
 <!-- RECENT_WORK:END -->
 
 ### 两件作品
