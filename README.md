@@ -11,11 +11,11 @@
 ### 最近在写
 
 <!-- RECENT_WORK:START -->
+- `07-21 21:33` 在 [AzureDreamWebsite](https://github.com/Mcxiaocaibug/AzureDreamWebsite) 提交 [feat: redesign with elegant azure nocturne and ethereal motion](https://github.com/Mcxiaocaibug/AzureDreamWebsite/commit/d812aacc7a664a2b44dbe5d84a241dc59e656ba8)
+- `07-21 20:06` 在 [Pumpkin](https://github.com/Mcxiaocaibug/Pumpkin) 提交 [feat(command): add /locate biome and /locate poi, use ResourceOrTag argu](https://github.com/Mcxiaocaibug/Pumpkin/commit/3f44e368e84dd5a989c23f4ebd4b7db3a9b1e980)
 - `07-20 21:22` 在 [AzureDreamWebsite](https://github.com/Mcxiaocaibug/AzureDreamWebsite) 提交 [fix: remove light stage edge gaps](https://github.com/Mcxiaocaibug/AzureDreamWebsite/commit/3de85f95788e52c33d74ab49b8a35b568dd39152)
 - `07-20 21:12` 在 [AzureDreamWebsite](https://github.com/Mcxiaocaibug/AzureDreamWebsite) 提交 [feat: rebuild site with immersive scroll narrative](https://github.com/Mcxiaocaibug/AzureDreamWebsite/commit/8a0cbbfc19f1fcc12b10c1b671b167d8d489f33c)
 - `07-20 20:12` 在 [Pumpkin](https://github.com/Mcxiaocaibug/Pumpkin) 提交 [refactor(command): derive locate suggestions from generated StructureSet](https://github.com/Mcxiaocaibug/Pumpkin/commit/e36200b7747f9b9fb3e0e83082bd423c82f91bbe)
-- `07-20 16:17` 在 [Pumpkin-MC/Pumpkin](https://github.com/Pumpkin-MC/Pumpkin) 合并 [#2419 fix(block): melt snow layers under high block light](https://github.com/Pumpkin-MC/Pumpkin/pull/2419)
-- `07-19 17:09` 在 [Pumpkin](https://github.com/Mcxiaocaibug/Pumpkin) 提交 [style: apply rustfmt](https://github.com/Mcxiaocaibug/Pumpkin/commit/3ebbb13285340a59ba7023e95d71b2f8ffce7f72)
 <!-- RECENT_WORK:END -->
 
 ### 两件作品
