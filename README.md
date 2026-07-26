@@ -11,11 +11,11 @@
 ### 最近在写
 
 <!-- RECENT_WORK:START -->
+- `07-26 18:43` 在 [Cinquain](https://github.com/Mcxiaocaibug/Cinquain) 合并 [#4 Sync upstream Continuwuity 26.6.2, fix Cinquain defects, release 0.0.2](https://github.com/Mcxiaocaibug/Cinquain/pull/4)
 - `07-26 16:45` 在 [Pumpkin](https://github.com/Mcxiaocaibug/Pumpkin) 提交 [refactor(command): run structure search off the async executor, drop pan](https://github.com/Mcxiaocaibug/Pumpkin/commit/e85ac2a91c99857b5c4d0b4ff4aa7f6fe49de590)
 - `07-25 19:19` 在 [Pumpkin](https://github.com/Mcxiaocaibug/Pumpkin) 提交 [refactor(command): run structure search off the async executor, drop pan](https://github.com/Mcxiaocaibug/Pumpkin/commit/13f6bef035d916da7370a4e27789a055d7c57139)
 - `07-22 20:14` 在 [AzureDreamWebsite](https://github.com/Mcxiaocaibug/AzureDreamWebsite) 提交 [feat: add refined micro-interactions and ethereal motion layer](https://github.com/Mcxiaocaibug/AzureDreamWebsite/commit/5cce0fcc73b58331e527def9edf8b86a3dc27725)
 - `07-22 20:00` 在 [AzureDreamWebsite](https://github.com/Mcxiaocaibug/AzureDreamWebsite) 提交 [fix: crop logo to perfect circle to hide dark square corners](https://github.com/Mcxiaocaibug/AzureDreamWebsite/commit/b0968b5e70d18462eae2238568151070464a7378)
-- `07-21 21:33` 在 [AzureDreamWebsite](https://github.com/Mcxiaocaibug/AzureDreamWebsite) 提交 [feat: redesign with elegant azure nocturne and ethereal motion](https://github.com/Mcxiaocaibug/AzureDreamWebsite/commit/d812aacc7a664a2b44dbe5d84a241dc59e656ba8)
 <!-- RECENT_WORK:END -->
 
 ### 两件作品
