@@ -11,11 +11,11 @@
 ### 最近在写
 
 <!-- RECENT_WORK:START -->
+- `08-01 21:17` 在 [NotionNext](https://github.com/Mcxiaocaibug/NotionNext) 提交 [docs: expand automatic originality proof guide (#4354)](https://github.com/Mcxiaocaibug/NotionNext/commit/a85341b10107ff7808db2375914399bf995571e4)
 - `07-26 21:17` 在 [AzureDreamWebsite](https://github.com/Mcxiaocaibug/AzureDreamWebsite) 提交 [Migrate site from Next.js to Svelte 5 + SvelteKit](https://github.com/Mcxiaocaibug/AzureDreamWebsite/commit/289c931e67bbaead618756b6ba4d6c4f72558d55)
 - `07-26 18:43` 在 [Cinquain](https://github.com/Mcxiaocaibug/Cinquain) 合并 [#4 Sync upstream Continuwuity 26.6.2, fix Cinquain defects, release 0.0.2](https://github.com/Mcxiaocaibug/Cinquain/pull/4)
 - `07-26 16:45` 在 [Pumpkin](https://github.com/Mcxiaocaibug/Pumpkin) 提交 [refactor(command): run structure search off the async executor, drop pan](https://github.com/Mcxiaocaibug/Pumpkin/commit/e85ac2a91c99857b5c4d0b4ff4aa7f6fe49de590)
 - `07-25 19:19` 在 [Pumpkin](https://github.com/Mcxiaocaibug/Pumpkin) 提交 [refactor(command): run structure search off the async executor, drop pan](https://github.com/Mcxiaocaibug/Pumpkin/commit/13f6bef035d916da7370a4e27789a055d7c57139)
-- `07-22 20:14` 在 [AzureDreamWebsite](https://github.com/Mcxiaocaibug/AzureDreamWebsite) 提交 [feat: add refined micro-interactions and ethereal motion layer](https://github.com/Mcxiaocaibug/AzureDreamWebsite/commit/5cce0fcc73b58331e527def9edf8b86a3dc27725)
 <!-- RECENT_WORK:END -->
 
 ### 两件作品
