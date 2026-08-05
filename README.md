@@ -11,8 +11,8 @@
 ### 最近在写
 
 <!-- RECENT_WORK:START -->
+- `08-05 14:56` 在 [Pumpkin-MC/Pumpkin](https://github.com/Pumpkin-MC/Pumpkin) 合并 [#2759 feat: emit lectern redstone signals and add the lectern screen](https://github.com/Pumpkin-MC/Pumpkin/pull/2759)
 - `08-04 18:19` 在 [Pumpkin-MC/Pumpkin](https://github.com/Pumpkin-MC/Pumpkin) 发起 [#2760 feat: add more dispenser behaviors](https://github.com/Pumpkin-MC/Pumpkin/pull/2760)
-- `08-04 18:18` 在 [Pumpkin-MC/Pumpkin](https://github.com/Pumpkin-MC/Pumpkin) 发起 [#2759 feat: emit lectern redstone signals and add the lectern screen](https://github.com/Pumpkin-MC/Pumpkin/pull/2759)
 - `08-01 21:17` 在 [NotionNext](https://github.com/Mcxiaocaibug/NotionNext) 提交 [docs: expand automatic originality proof guide (#4354)](https://github.com/Mcxiaocaibug/NotionNext/commit/a85341b10107ff7808db2375914399bf995571e4)
 - `07-26 21:17` 在 [AzureDreamWebsite](https://github.com/Mcxiaocaibug/AzureDreamWebsite) 提交 [Migrate site from Next.js to Svelte 5 + SvelteKit](https://github.com/Mcxiaocaibug/AzureDreamWebsite/commit/289c931e67bbaead618756b6ba4d6c4f72558d55)
 - `07-26 18:43` 在 [Cinquain](https://github.com/Mcxiaocaibug/Cinquain) 合并 [#4 Sync upstream Continuwuity 26.6.2, fix Cinquain defects, release 0.0.2](https://github.com/Mcxiaocaibug/Cinquain/pull/4)
