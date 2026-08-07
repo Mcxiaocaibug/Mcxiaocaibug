@@ -11,11 +11,11 @@
 ### 最近在写
 
 <!-- RECENT_WORK:START -->
+- `08-07 18:09` 在 [Mcxiaocaibug.github.io](https://github.com/Mcxiaocaibug/Mcxiaocaibug.github.io) 提交 [Migrate from Next.js to Svelte 5 + SvelteKit](https://github.com/Mcxiaocaibug/Mcxiaocaibug.github.io/commit/42ad045b25d6295b3ed55e7676d6bb0c16b46642)
 - `08-06 21:41` 在 [Mcxiaocaibug.github.io](https://github.com/Mcxiaocaibug/Mcxiaocaibug.github.io) 提交 [Trigger Pages redeploy](https://github.com/Mcxiaocaibug/Mcxiaocaibug.github.io/commit/f8263bffbf5aea9bd0eb68f49df0b7252cfa7ae5)
 - `08-06 21:29` 在 [Mcxiaocaibug.github.io](https://github.com/Mcxiaocaibug/Mcxiaocaibug.github.io) 提交 [Refine motion system with WebBridge-inspired easing and reveals](https://github.com/Mcxiaocaibug/Mcxiaocaibug.github.io/commit/ca1282454ab128498818f5755f77819b1d13f6f4)
 - `08-05 14:56` 在 [Pumpkin-MC/Pumpkin](https://github.com/Pumpkin-MC/Pumpkin) 合并 [#2759 feat: emit lectern redstone signals and add the lectern screen](https://github.com/Pumpkin-MC/Pumpkin/pull/2759)
 - `08-04 18:19` 在 [Pumpkin-MC/Pumpkin](https://github.com/Pumpkin-MC/Pumpkin) 发起 [#2760 feat: add more dispenser behaviors](https://github.com/Pumpkin-MC/Pumpkin/pull/2760)
-- `08-01 21:17` 在 [NotionNext](https://github.com/Mcxiaocaibug/NotionNext) 提交 [docs: expand automatic originality proof guide (#4354)](https://github.com/Mcxiaocaibug/NotionNext/commit/a85341b10107ff7808db2375914399bf995571e4)
 <!-- RECENT_WORK:END -->
 
 ### 两件作品
