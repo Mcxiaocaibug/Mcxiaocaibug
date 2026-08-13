@@ -11,11 +11,11 @@
 ### 最近在写
 
 <!-- RECENT_WORK:START -->
+- `08-13 21:42` 在 [survey-gate](https://github.com/Mcxiaocaibug/survey-gate) 提交 [Switch file storage from R2 to Workers KV](https://github.com/Mcxiaocaibug/survey-gate/commit/e27afb386037eb6625ec9c49b193ae70d2448d1c)
 - `08-13 16:44` 在 [Pumpkin](https://github.com/Mcxiaocaibug/Pumpkin) 提交 [feat: add more dispenser behaviors](https://github.com/Mcxiaocaibug/Pumpkin/commit/49586ccbec2d0750dc38471a87e07c69725ee932)
 - `08-07 18:12` 在 [Mcxiaocaibug.github.io](https://github.com/Mcxiaocaibug/Mcxiaocaibug.github.io) 提交 [Restore npm ci with regenerated SvelteKit lockfile](https://github.com/Mcxiaocaibug/Mcxiaocaibug.github.io/commit/0afe0c9f8fdb4755eb4274bb3ac5335fa31c851e)
 - `08-07 18:10` 在 [Mcxiaocaibug.github.io](https://github.com/Mcxiaocaibug/Mcxiaocaibug.github.io) 提交 [Drop npm cache from CI until lockfile returns](https://github.com/Mcxiaocaibug/Mcxiaocaibug.github.io/commit/13d4e6aaf0df8e02fa86aefcf2385119b338fb8c)
 - `08-07 18:09` 在 [Mcxiaocaibug.github.io](https://github.com/Mcxiaocaibug/Mcxiaocaibug.github.io) 提交 [Migrate from Next.js to Svelte 5 + SvelteKit](https://github.com/Mcxiaocaibug/Mcxiaocaibug.github.io/commit/42ad045b25d6295b3ed55e7676d6bb0c16b46642)
-- `08-06 21:41` 在 [Mcxiaocaibug.github.io](https://github.com/Mcxiaocaibug/Mcxiaocaibug.github.io) 提交 [Trigger Pages redeploy](https://github.com/Mcxiaocaibug/Mcxiaocaibug.github.io/commit/f8263bffbf5aea9bd0eb68f49df0b7252cfa7ae5)
 <!-- RECENT_WORK:END -->
 
 ### 两件作品
