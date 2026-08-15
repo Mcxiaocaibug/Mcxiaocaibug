@@ -11,11 +11,11 @@
 ### 最近在写
 
 <!-- RECENT_WORK:START -->
+- `08-15 21:08` 在 [Pumpkin-MC/Pumpkin](https://github.com/Pumpkin-MC/Pumpkin) 发起 [#2961 chore(fuzzer): drop unused dependencies](https://github.com/Pumpkin-MC/Pumpkin/pull/2961)
 - `08-15 20:58` 在 [Pumpkin](https://github.com/Mcxiaocaibug/Pumpkin) 提交 [feat(pumpkin): add /reload command](https://github.com/Mcxiaocaibug/Pumpkin/commit/edac24cba7f64eb0eb308e1ce5b43a5fc690a611)
 - `08-15 20:58` 在 [Pumpkin](https://github.com/Mcxiaocaibug/Pumpkin) 提交 [feat(pumpkin): add /perf command](https://github.com/Mcxiaocaibug/Pumpkin/commit/a0be62f786ea42b06d9384a7eaeb45ed82818181)
 - `08-15 20:25` 在 [Pumpkin-MC/Pumpkin](https://github.com/Pumpkin-MC/Pumpkin) 发起 [#2960 feat(pumpkin): add /reload command](https://github.com/Pumpkin-MC/Pumpkin/pull/2960)
 - `08-15 20:24` 在 [Pumpkin-MC/Pumpkin](https://github.com/Pumpkin-MC/Pumpkin) 发起 [#2958 feat(pumpkin): add /perf command](https://github.com/Pumpkin-MC/Pumpkin/pull/2958)
-- `08-14 00:08` 在 [Pumpkin-MC/Pumpkin](https://github.com/Pumpkin-MC/Pumpkin) 合并 [#2760 feat: add more dispenser behaviors](https://github.com/Pumpkin-MC/Pumpkin/pull/2760)
 <!-- RECENT_WORK:END -->
 
 ### 两件作品
