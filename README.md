@@ -11,11 +11,11 @@
 ### 最近在写
 
 <!-- RECENT_WORK:START -->
+- `08-19 20:01` 在 [Pumpkin](https://github.com/Mcxiaocaibug/Pumpkin) 提交 [chore(command): adapt /locate to upstream API changes](https://github.com/Mcxiaocaibug/Pumpkin/commit/c1add8a9d2706a7ded15833784c5cc6de7adc88a)
+- `08-19 19:59` 在 [Pumpkin](https://github.com/Mcxiaocaibug/Pumpkin) 提交 [refactor(command): run structure search off the async executor, drop pan](https://github.com/Mcxiaocaibug/Pumpkin/commit/75fe47662c68feaed6b20c96337df108c753f062)
 - `08-19 19:05` 在 [Pumpkin-MC/Pumpkin](https://github.com/Pumpkin-MC/Pumpkin) 发起 [#2995 fix(piston): stop block swapping from corrupting pistons](https://github.com/Pumpkin-MC/Pumpkin/pull/2995)
 - `08-16 18:42` 在 [Pumpkin](https://github.com/Mcxiaocaibug/Pumpkin) 提交 [feat(pumpkin): add /reload command](https://github.com/Mcxiaocaibug/Pumpkin/commit/ab8674fa65e5d30418b35b4d2c38fa8ccc03391a)
 - `08-16 18:42` 在 [Pumpkin](https://github.com/Mcxiaocaibug/Pumpkin) 提交 [feat(pumpkin): add /perf command](https://github.com/Mcxiaocaibug/Pumpkin/commit/bb5fcbfb2c2f110e4aa9c55f7399e9772a6a0ed4)
-- `08-15 21:08` 在 [Pumpkin-MC/Pumpkin](https://github.com/Pumpkin-MC/Pumpkin) 发起 [#2961 chore(fuzzer): drop unused dependencies](https://github.com/Pumpkin-MC/Pumpkin/pull/2961)
-- `08-15 20:58` 在 [Pumpkin](https://github.com/Mcxiaocaibug/Pumpkin) 提交 [feat(pumpkin): add /reload command](https://github.com/Mcxiaocaibug/Pumpkin/commit/edac24cba7f64eb0eb308e1ce5b43a5fc690a611)
 <!-- RECENT_WORK:END -->
 
 ### 两件作品
