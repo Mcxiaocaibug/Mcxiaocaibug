@@ -11,11 +11,11 @@
 ### 最近在写
 
 <!-- RECENT_WORK:START -->
+- `08-20 19:14` 在 [Pumpkin-MC/Pumpkin](https://github.com/Pumpkin-MC/Pumpkin) 合并 [#2420 feat(command): add /locate structure](https://github.com/Pumpkin-MC/Pumpkin/pull/2420)
 - `08-20 13:51` 在 [Pumpkin](https://github.com/Mcxiaocaibug/Pumpkin) 提交 [fix(command): report structures /locate can actually find](https://github.com/Mcxiaocaibug/Pumpkin/commit/806c9fce20b1b9981ecca5aeb2f3ed6e673c19e4)
 - `08-20 12:51` 在 [Pumpkin](https://github.com/Mcxiaocaibug/Pumpkin) 提交 [fix(command): report structures /locate can actually find](https://github.com/Mcxiaocaibug/Pumpkin/commit/e46c5709b61bdc16dc5ce816d9ad044a8eb8303a)
 - `08-19 20:01` 在 [Pumpkin](https://github.com/Mcxiaocaibug/Pumpkin) 提交 [chore(command): adapt /locate to upstream API changes](https://github.com/Mcxiaocaibug/Pumpkin/commit/c1add8a9d2706a7ded15833784c5cc6de7adc88a)
 - `08-19 19:59` 在 [Pumpkin](https://github.com/Mcxiaocaibug/Pumpkin) 提交 [refactor(command): run structure search off the async executor, drop pan](https://github.com/Mcxiaocaibug/Pumpkin/commit/75fe47662c68feaed6b20c96337df108c753f062)
-- `08-19 19:05` 在 [Pumpkin-MC/Pumpkin](https://github.com/Pumpkin-MC/Pumpkin) 发起 [#2995 fix(piston): stop block swapping from corrupting pistons](https://github.com/Pumpkin-MC/Pumpkin/pull/2995)
 <!-- RECENT_WORK:END -->
 
 ### 两件作品
