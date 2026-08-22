@@ -11,11 +11,11 @@
 ### 最近在写
 
 <!-- RECENT_WORK:START -->
+- `08-22 19:31` 在 [VerdantGolemMC/VerdantGolem](https://github.com/VerdantGolemMC/VerdantGolem) 提交 [fix: resolve verifier A4 residuals (comment-level brand references)](https://github.com/VerdantGolemMC/VerdantGolem/commit/f490fec76cd5e76f33a970f4f5753425fdee0e7b)
 - `08-22 17:09` 在 [VerdantGolemMC/VerdantGolem](https://github.com/VerdantGolemMC/VerdantGolem) 提交 [fix: use lowercase clippy.toml so Linux CI picks up doc-valid-idents](https://github.com/VerdantGolemMC/VerdantGolem/commit/2c76a275cce2ee14dc2c1b747a4b8dea1eca643f)
 - `08-22 16:59` 在 [VerdantGolemMC/VerdantGolem](https://github.com/VerdantGolemMC/VerdantGolem) 提交 [feat: rebrand project self-description layer from Pumpkin to VerdantGole](https://github.com/VerdantGolemMC/VerdantGolem/commit/df888bdece0a552883952af70e4c0b56f3cad95e)
 - `08-20 19:14` 在 [Pumpkin-MC/Pumpkin](https://github.com/Pumpkin-MC/Pumpkin) 合并 [#2420 feat(command): add /locate structure](https://github.com/Pumpkin-MC/Pumpkin/pull/2420)
 - `08-20 13:51` 在 [Pumpkin](https://github.com/Mcxiaocaibug/Pumpkin) 提交 [fix(command): report structures /locate can actually find](https://github.com/Mcxiaocaibug/Pumpkin/commit/806c9fce20b1b9981ecca5aeb2f3ed6e673c19e4)
-- `08-20 12:51` 在 [Pumpkin](https://github.com/Mcxiaocaibug/Pumpkin) 提交 [fix(command): report structures /locate can actually find](https://github.com/Mcxiaocaibug/Pumpkin/commit/e46c5709b61bdc16dc5ce816d9ad044a8eb8303a)
 <!-- RECENT_WORK:END -->
 
 ### 两件作品
