@@ -11,11 +11,11 @@
 ### 最近在写
 
 <!-- RECENT_WORK:START -->
+- `08-22 21:11` 在 [VerdantGolemMC/VerdantGolem](https://github.com/VerdantGolemMC/VerdantGolem) 提交 [fix: clippy lints for carpet rules (use_self, must_use, const fn, format](https://github.com/VerdantGolemMC/VerdantGolem/commit/a2c97a4c63b1d3a6e07966624388bea6778db360)
 - `08-22 20:35` 在 [VerdantGolemMC/VerdantGolem](https://github.com/VerdantGolemMC/VerdantGolem) 提交 [feat: carpet-style technical-survival rules framework with 20 wired rule](https://github.com/VerdantGolemMC/VerdantGolem/commit/b93e69914cec16f51427547b3c0bc8126a60191d)
 - `08-22 19:31` 在 [VerdantGolemMC/VerdantGolem](https://github.com/VerdantGolemMC/VerdantGolem) 提交 [fix: resolve verifier A4 residuals (comment-level brand references)](https://github.com/VerdantGolemMC/VerdantGolem/commit/f490fec76cd5e76f33a970f4f5753425fdee0e7b)
 - `08-22 17:09` 在 [VerdantGolemMC/VerdantGolem](https://github.com/VerdantGolemMC/VerdantGolem) 提交 [fix: use lowercase clippy.toml so Linux CI picks up doc-valid-idents](https://github.com/VerdantGolemMC/VerdantGolem/commit/2c76a275cce2ee14dc2c1b747a4b8dea1eca643f)
 - `08-22 16:59` 在 [VerdantGolemMC/VerdantGolem](https://github.com/VerdantGolemMC/VerdantGolem) 提交 [feat: rebrand project self-description layer from Pumpkin to VerdantGole](https://github.com/VerdantGolemMC/VerdantGolem/commit/df888bdece0a552883952af70e4c0b56f3cad95e)
-- `08-20 19:14` 在 [Pumpkin-MC/Pumpkin](https://github.com/Pumpkin-MC/Pumpkin) 合并 [#2420 feat(command): add /locate structure](https://github.com/Pumpkin-MC/Pumpkin/pull/2420)
 <!-- RECENT_WORK:END -->
 
 ### 两件作品
