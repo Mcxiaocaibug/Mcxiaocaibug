@@ -11,11 +11,11 @@
 ### 最近在写
 
 <!-- RECENT_WORK:START -->
+- `08-23 21:05` 在 [VerdantGolemMC/VerdantGolem](https://github.com/VerdantGolemMC/VerdantGolem) 提交 [fix: spawn chunk ticket via bool::then closure](https://github.com/VerdantGolemMC/VerdantGolem/commit/9d5a4362d8146fae03dc1baf8e0c76a58dc1bba7)
 - `08-23 20:58` 在 [VerdantGolemMC/VerdantGolem](https://github.com/VerdantGolemMC/VerdantGolem) 提交 [fix: remaining clippy nits (unused mut, bool::then, forceload test modul](https://github.com/VerdantGolemMC/VerdantGolem/commit/e171a946f601e21e63ad177d626f3d189d156b17)
 - `08-23 20:52` 在 [VerdantGolemMC/VerdantGolem](https://github.com/VerdantGolemMC/VerdantGolem) 提交 [fix: clippy and compile fixes for audit round (refs, suffixes, const fn,](https://github.com/VerdantGolemMC/VerdantGolem/commit/63a5accc816ffcc8ad4dcf45865dad21da0a0caa)
 - `08-23 20:42` 在 [VerdantGolemMC/VerdantGolem](https://github.com/VerdantGolemMC/VerdantGolem) 提交 [fix: complete Carpet audit and runtime rule wiring](https://github.com/VerdantGolemMC/VerdantGolem/commit/35e756dd5fa67a30e0e2b5185542736fb0e8671a)
 - `08-23 18:54` 在 [VerdantGolemMC/VerdantGolem](https://github.com/VerdantGolemMC/VerdantGolem) 提交 [fix: redundant pattern matching in loggers toggle](https://github.com/VerdantGolemMC/VerdantGolem/commit/97c5da284a85f5cd38c74fa521b882ac0e642763)
-- `08-23 18:49` 在 [VerdantGolemMC/VerdantGolem](https://github.com/VerdantGolemMC/VerdantGolem) 提交 [fix: clippy pedantic for /log, /spawn tracking and /perimeterinfo](https://github.com/VerdantGolemMC/VerdantGolem/commit/6c03d12bb0cae41a0155fe359656fdc3ddb6cf04)
 <!-- RECENT_WORK:END -->
 
 ### 两件作品
