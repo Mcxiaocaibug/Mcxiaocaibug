@@ -11,11 +11,11 @@
 ### 最近在写
 
 <!-- RECENT_WORK:START -->
+- `08-23 18:54` 在 [VerdantGolemMC/VerdantGolem](https://github.com/VerdantGolemMC/VerdantGolem) 提交 [fix: redundant pattern matching in loggers toggle](https://github.com/VerdantGolemMC/VerdantGolem/commit/97c5da284a85f5cd38c74fa521b882ac0e642763)
+- `08-23 18:49` 在 [VerdantGolemMC/VerdantGolem](https://github.com/VerdantGolemMC/VerdantGolem) 提交 [fix: clippy pedantic for /log, /spawn tracking and /perimeterinfo](https://github.com/VerdantGolemMC/VerdantGolem/commit/6c03d12bb0cae41a0155fe359656fdc3ddb6cf04)
 - `08-23 18:19` 在 [VerdantGolemMC/VerdantGolem](https://github.com/VerdantGolemMC/VerdantGolem) 提交 [fix: remaining compile errors (perimeterinfo entity/min_y access, mount ](https://github.com/VerdantGolemMC/VerdantGolem/commit/2d65ceb043bb6789d6c3dcd88799626ae9f5f9ff)
 - `08-23 18:17` 在 [VerdantGolemMC/VerdantGolem](https://github.com/VerdantGolemMC/VerdantGolem) 提交 [feat: /spawn tracking subcommand + docs](https://github.com/VerdantGolemMC/VerdantGolem/commit/b2dc63039fe60da4fedc79e932897dc0a500c4d6)
 - `08-23 18:16` 在 [VerdantGolemMC/VerdantGolem](https://github.com/VerdantGolemMC/VerdantGolem) 提交 [feat: /spawn tracking - sample natural spawn rates with per-type breakdo](https://github.com/VerdantGolemMC/VerdantGolem/commit/411b6e43a72ac7941799ad089133f709564bf681)
-- `08-23 18:13` 在 [VerdantGolemMC/VerdantGolem](https://github.com/VerdantGolemMC/VerdantGolem) 提交 [feat: rotatorBlock rule - dispensers with cactus rotate blocks counter-c](https://github.com/VerdantGolemMC/VerdantGolem/commit/fb670d91a3a6362db157c88d5d7d77b272644ac1)
-- `08-23 18:12` 在 [VerdantGolemMC/VerdantGolem](https://github.com/VerdantGolemMC/VerdantGolem) 提交 [fix: batch-4/5 compile errors (registry_key call, glass check, world min](https://github.com/VerdantGolemMC/VerdantGolem/commit/aeea8f4d71cadff29d780819781ea21401dbdfbd)
 <!-- RECENT_WORK:END -->
 
 ### 两件作品
