@@ -11,11 +11,11 @@
 ### 最近在写
 
 <!-- RECENT_WORK:START -->
-- `08-23 16:27` 在 [VerdantGolemMC/VerdantGolem](https://github.com/VerdantGolemMC/VerdantGolem) 提交 [fix: format_push_string in /info](https://github.com/VerdantGolemMC/VerdantGolem/commit/e80fe838c9c2c508ce410d984f55a2978a270fb9)
-- `08-23 16:20` 在 [VerdantGolemMC/VerdantGolem](https://github.com/VerdantGolemMC/VerdantGolem) 提交 [fix: remaining batch-3 warnings (Display for to-position, unused binding](https://github.com/VerdantGolemMC/VerdantGolem/commit/4483c2d65097e7f75d934fb289e0d049c98136e4)
-- `08-23 16:15` 在 [VerdantGolemMC/VerdantGolem](https://github.com/VerdantGolemMC/VerdantGolem) 提交 [fix: /info command imports and error lifetime](https://github.com/VerdantGolemMC/VerdantGolem/commit/83fb08e01ab2500d24189605c782b18ac0f17ad3)
-- `08-23 16:14` 在 [VerdantGolemMC/VerdantGolem](https://github.com/VerdantGolemMC/VerdantGolem) 提交 [fix: batch-3 compile errors (Hand variant, Arc move, Display, Taggable i](https://github.com/VerdantGolemMC/VerdantGolem/commit/f07b1d97a7f2c27846ed2610e451e6c805a9617a)
-- `08-23 16:07` 在 [VerdantGolemMC/VerdantGolem](https://github.com/VerdantGolemMC/VerdantGolem) 提交 [feat: fake-player actions, renewableSponces, /info and /distance](https://github.com/VerdantGolemMC/VerdantGolem/commit/892cd354ad8336241cc1d45d8c22d0ce089f5e3f)
+- `08-23 18:19` 在 [VerdantGolemMC/VerdantGolem](https://github.com/VerdantGolemMC/VerdantGolem) 提交 [fix: remaining compile errors (perimeterinfo entity/min_y access, mount ](https://github.com/VerdantGolemMC/VerdantGolem/commit/2d65ceb043bb6789d6c3dcd88799626ae9f5f9ff)
+- `08-23 18:17` 在 [VerdantGolemMC/VerdantGolem](https://github.com/VerdantGolemMC/VerdantGolem) 提交 [feat: /spawn tracking subcommand + docs](https://github.com/VerdantGolemMC/VerdantGolem/commit/b2dc63039fe60da4fedc79e932897dc0a500c4d6)
+- `08-23 18:16` 在 [VerdantGolemMC/VerdantGolem](https://github.com/VerdantGolemMC/VerdantGolem) 提交 [feat: /spawn tracking - sample natural spawn rates with per-type breakdo](https://github.com/VerdantGolemMC/VerdantGolem/commit/411b6e43a72ac7941799ad089133f709564bf681)
+- `08-23 18:13` 在 [VerdantGolemMC/VerdantGolem](https://github.com/VerdantGolemMC/VerdantGolem) 提交 [feat: rotatorBlock rule - dispensers with cactus rotate blocks counter-c](https://github.com/VerdantGolemMC/VerdantGolem/commit/fb670d91a3a6362db157c88d5d7d77b272644ac1)
+- `08-23 18:12` 在 [VerdantGolemMC/VerdantGolem](https://github.com/VerdantGolemMC/VerdantGolem) 提交 [fix: batch-4/5 compile errors (registry_key call, glass check, world min](https://github.com/VerdantGolemMC/VerdantGolem/commit/aeea8f4d71cadff29d780819781ea21401dbdfbd)
 <!-- RECENT_WORK:END -->
 
 ### 两件作品
