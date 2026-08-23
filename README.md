@@ -11,11 +11,11 @@
 ### 最近在写
 
 <!-- RECENT_WORK:START -->
+- `08-23 15:21` 在 [VerdantGolemMC/VerdantGolem](https://github.com/VerdantGolemMC/VerdantGolem) 提交 [fix: clippy pedantic lints for fake players and spawn helpers](https://github.com/VerdantGolemMC/VerdantGolem/commit/96c83a7bfab59fdf76be43211d54b161651e3fcc)
+- `08-23 15:07` 在 [VerdantGolemMC/VerdantGolem](https://github.com/VerdantGolemMC/VerdantGolem) 提交 [fix: silence unused server param in /player spawn executor](https://github.com/VerdantGolemMC/VerdantGolem/commit/189869cb26eef45648ced001f2c0a033aec33748)
+- `08-23 15:07` 在 [VerdantGolemMC/VerdantGolem](https://github.com/VerdantGolemMC/VerdantGolem) 提交 [fix: fake-player spawn takes the world's server handle; send_pos_rot is ](https://github.com/VerdantGolemMC/VerdantGolem/commit/e518e006ddb4ec44d7794c6e4ed2d3d31f063e0d)
 - `08-23 14:54` 在 [VerdantGolemMC/VerdantGolem](https://github.com/VerdantGolemMC/VerdantGolem) 提交 [fix: fake-player follow-ups (wasm packet match arms, chunker duplicate a](https://github.com/VerdantGolemMC/VerdantGolem/commit/227fe25ebb6687bf7849792d3087202bb2c5f3dc)
 - `08-23 14:53` 在 [VerdantGolemMC/VerdantGolem](https://github.com/VerdantGolemMC/VerdantGolem) 提交 [fix: use public re-export paths for MobCategory and Dimension](https://github.com/VerdantGolemMC/VerdantGolem/commit/3987da020ba49250b54df134d70657b119bab34b)
-- `08-23 14:52` 在 [VerdantGolemMC/VerdantGolem](https://github.com/VerdantGolemMC/VerdantGolem) 提交 [feat: carpet-style fake players (/player) via headless ClientPlatform::L](https://github.com/VerdantGolemMC/VerdantGolem/commit/435713636456e1324739ade330b0565fa7007f8b)
-- `08-23 14:43` 在 [VerdantGolemMC/VerdantGolem](https://github.com/VerdantGolemMC/VerdantGolem) 提交 [style: rustfmt](https://github.com/VerdantGolemMC/VerdantGolem/commit/1a7e0af233435a5dde0eb58283e256da7052da63)
-- `08-23 14:40` 在 [VerdantGolemMC/VerdantGolem](https://github.com/VerdantGolemMC/VerdantGolem) 提交 [style: fmt for /spawn command](https://github.com/VerdantGolemMC/VerdantGolem/commit/72a9f68113f8a171481b1e28ed1336a6c4c65fc0)
 <!-- RECENT_WORK:END -->
 
 ### 两件作品
