@@ -11,11 +11,11 @@
 ### 最近在写
 
 <!-- RECENT_WORK:START -->
-- `08-22 21:11` 在 [VerdantGolemMC/VerdantGolem](https://github.com/VerdantGolemMC/VerdantGolem) 提交 [fix: clippy lints for carpet rules (use_self, must_use, const fn, format](https://github.com/VerdantGolemMC/VerdantGolem/commit/a2c97a4c63b1d3a6e07966624388bea6778db360)
-- `08-22 20:35` 在 [VerdantGolemMC/VerdantGolem](https://github.com/VerdantGolemMC/VerdantGolem) 提交 [feat: carpet-style technical-survival rules framework with 20 wired rule](https://github.com/VerdantGolemMC/VerdantGolem/commit/b93e69914cec16f51427547b3c0bc8126a60191d)
-- `08-22 19:31` 在 [VerdantGolemMC/VerdantGolem](https://github.com/VerdantGolemMC/VerdantGolem) 提交 [fix: resolve verifier A4 residuals (comment-level brand references)](https://github.com/VerdantGolemMC/VerdantGolem/commit/f490fec76cd5e76f33a970f4f5753425fdee0e7b)
-- `08-22 17:09` 在 [VerdantGolemMC/VerdantGolem](https://github.com/VerdantGolemMC/VerdantGolem) 提交 [fix: use lowercase clippy.toml so Linux CI picks up doc-valid-idents](https://github.com/VerdantGolemMC/VerdantGolem/commit/2c76a275cce2ee14dc2c1b747a4b8dea1eca643f)
-- `08-22 16:59` 在 [VerdantGolemMC/VerdantGolem](https://github.com/VerdantGolemMC/VerdantGolem) 提交 [feat: rebrand project self-description layer from Pumpkin to VerdantGole](https://github.com/VerdantGolemMC/VerdantGolem/commit/df888bdece0a552883952af70e4c0b56f3cad95e)
+- `08-23 14:54` 在 [VerdantGolemMC/VerdantGolem](https://github.com/VerdantGolemMC/VerdantGolem) 提交 [fix: fake-player follow-ups (wasm packet match arms, chunker duplicate a](https://github.com/VerdantGolemMC/VerdantGolem/commit/227fe25ebb6687bf7849792d3087202bb2c5f3dc)
+- `08-23 14:53` 在 [VerdantGolemMC/VerdantGolem](https://github.com/VerdantGolemMC/VerdantGolem) 提交 [fix: use public re-export paths for MobCategory and Dimension](https://github.com/VerdantGolemMC/VerdantGolem/commit/3987da020ba49250b54df134d70657b119bab34b)
+- `08-23 14:52` 在 [VerdantGolemMC/VerdantGolem](https://github.com/VerdantGolemMC/VerdantGolem) 提交 [feat: carpet-style fake players (/player) via headless ClientPlatform::L](https://github.com/VerdantGolemMC/VerdantGolem/commit/435713636456e1324739ade330b0565fa7007f8b)
+- `08-23 14:43` 在 [VerdantGolemMC/VerdantGolem](https://github.com/VerdantGolemMC/VerdantGolem) 提交 [style: rustfmt](https://github.com/VerdantGolemMC/VerdantGolem/commit/1a7e0af233435a5dde0eb58283e256da7052da63)
+- `08-23 14:40` 在 [VerdantGolemMC/VerdantGolem](https://github.com/VerdantGolemMC/VerdantGolem) 提交 [style: fmt for /spawn command](https://github.com/VerdantGolemMC/VerdantGolem/commit/72a9f68113f8a171481b1e28ed1336a6c4c65fc0)
 <!-- RECENT_WORK:END -->
 
 ### 两件作品
