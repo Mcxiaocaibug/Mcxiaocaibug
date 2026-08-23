@@ -11,11 +11,11 @@
 ### 最近在写
 
 <!-- RECENT_WORK:START -->
-- `08-23 15:21` 在 [VerdantGolemMC/VerdantGolem](https://github.com/VerdantGolemMC/VerdantGolem) 提交 [fix: clippy pedantic lints for fake players and spawn helpers](https://github.com/VerdantGolemMC/VerdantGolem/commit/96c83a7bfab59fdf76be43211d54b161651e3fcc)
-- `08-23 15:07` 在 [VerdantGolemMC/VerdantGolem](https://github.com/VerdantGolemMC/VerdantGolem) 提交 [fix: silence unused server param in /player spawn executor](https://github.com/VerdantGolemMC/VerdantGolem/commit/189869cb26eef45648ced001f2c0a033aec33748)
-- `08-23 15:07` 在 [VerdantGolemMC/VerdantGolem](https://github.com/VerdantGolemMC/VerdantGolem) 提交 [fix: fake-player spawn takes the world's server handle; send_pos_rot is ](https://github.com/VerdantGolemMC/VerdantGolem/commit/e518e006ddb4ec44d7794c6e4ed2d3d31f063e0d)
-- `08-23 14:54` 在 [VerdantGolemMC/VerdantGolem](https://github.com/VerdantGolemMC/VerdantGolem) 提交 [fix: fake-player follow-ups (wasm packet match arms, chunker duplicate a](https://github.com/VerdantGolemMC/VerdantGolem/commit/227fe25ebb6687bf7849792d3087202bb2c5f3dc)
-- `08-23 14:53` 在 [VerdantGolemMC/VerdantGolem](https://github.com/VerdantGolemMC/VerdantGolem) 提交 [fix: use public re-export paths for MobCategory and Dimension](https://github.com/VerdantGolemMC/VerdantGolem/commit/3987da020ba49250b54df134d70657b119bab34b)
+- `08-23 16:27` 在 [VerdantGolemMC/VerdantGolem](https://github.com/VerdantGolemMC/VerdantGolem) 提交 [fix: format_push_string in /info](https://github.com/VerdantGolemMC/VerdantGolem/commit/e80fe838c9c2c508ce410d984f55a2978a270fb9)
+- `08-23 16:20` 在 [VerdantGolemMC/VerdantGolem](https://github.com/VerdantGolemMC/VerdantGolem) 提交 [fix: remaining batch-3 warnings (Display for to-position, unused binding](https://github.com/VerdantGolemMC/VerdantGolem/commit/4483c2d65097e7f75d934fb289e0d049c98136e4)
+- `08-23 16:15` 在 [VerdantGolemMC/VerdantGolem](https://github.com/VerdantGolemMC/VerdantGolem) 提交 [fix: /info command imports and error lifetime](https://github.com/VerdantGolemMC/VerdantGolem/commit/83fb08e01ab2500d24189605c782b18ac0f17ad3)
+- `08-23 16:14` 在 [VerdantGolemMC/VerdantGolem](https://github.com/VerdantGolemMC/VerdantGolem) 提交 [fix: batch-3 compile errors (Hand variant, Arc move, Display, Taggable i](https://github.com/VerdantGolemMC/VerdantGolem/commit/f07b1d97a7f2c27846ed2610e451e6c805a9617a)
+- `08-23 16:07` 在 [VerdantGolemMC/VerdantGolem](https://github.com/VerdantGolemMC/VerdantGolem) 提交 [feat: fake-player actions, renewableSponces, /info and /distance](https://github.com/VerdantGolemMC/VerdantGolem/commit/892cd354ad8336241cc1d45d8c22d0ce089f5e3f)
 <!-- RECENT_WORK:END -->
 
 ### 两件作品
