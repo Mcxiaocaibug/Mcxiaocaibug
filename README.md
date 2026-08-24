@@ -11,11 +11,11 @@
 ### 最近在写
 
 <!-- RECENT_WORK:START -->
+- `08-24 20:44` 在 [Pumpkin-MC/Pumpkin](https://github.com/Pumpkin-MC/Pumpkin) 合并 [#2960 feat(pumpkin): add /reload command](https://github.com/Pumpkin-MC/Pumpkin/pull/2960)
 - `08-24 16:52` 在 [Pumpkin](https://github.com/Mcxiaocaibug/Pumpkin) 提交 [feat(pumpkin): add /reload command](https://github.com/Mcxiaocaibug/Pumpkin/commit/1c814d9fa08eef13000d1d8f81ad93cc1789ad9d)
 - `08-24 16:29` 在 [Pumpkin](https://github.com/Mcxiaocaibug/Pumpkin) 提交 [feat(pumpkin): add /perf command](https://github.com/Mcxiaocaibug/Pumpkin/commit/2f39937b9600d7dd2bd822e9b8fab7d0fbbbdc3f)
 - `08-23 21:05` 在 [VerdantGolemMC/VerdantGolem](https://github.com/VerdantGolemMC/VerdantGolem) 提交 [fix: spawn chunk ticket via bool::then closure](https://github.com/VerdantGolemMC/VerdantGolem/commit/9d5a4362d8146fae03dc1baf8e0c76a58dc1bba7)
 - `08-23 20:58` 在 [VerdantGolemMC/VerdantGolem](https://github.com/VerdantGolemMC/VerdantGolem) 提交 [fix: remaining clippy nits (unused mut, bool::then, forceload test modul](https://github.com/VerdantGolemMC/VerdantGolem/commit/e171a946f601e21e63ad177d626f3d189d156b17)
-- `08-23 20:52` 在 [VerdantGolemMC/VerdantGolem](https://github.com/VerdantGolemMC/VerdantGolem) 提交 [fix: clippy and compile fixes for audit round (refs, suffixes, const fn,](https://github.com/VerdantGolemMC/VerdantGolem/commit/63a5accc816ffcc8ad4dcf45865dad21da0a0caa)
 <!-- RECENT_WORK:END -->
 
 ### 两件作品
