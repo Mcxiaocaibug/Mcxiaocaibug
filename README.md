@@ -11,11 +11,11 @@
 ### 最近在写
 
 <!-- RECENT_WORK:START -->
-- `08-29 10:04` 在 [VerdantGolemMC/VerdantGolem](https://github.com/VerdantGolemMC/VerdantGolem) 提交 [Merge remote-tracking branch 'upstream/master'](https://github.com/VerdantGolemMC/VerdantGolem/commit/aca75070f90391351241acf6479a95a0c516f842)
-- `08-29 09:52` 在 [VerdantGolemMC/VerdantGolem](https://github.com/VerdantGolemMC/VerdantGolem) 提交 [ci: mechanical-rename auto-resolution for upstream sync conflicts](https://github.com/VerdantGolemMC/VerdantGolem/commit/a3d6b110085c98a3506dacc261d6e2c410a23ef0)
-- `08-29 06:57` 在 [VerdantGolemMC/VerdantGolem](https://github.com/VerdantGolemMC/VerdantGolem) 提交 [fix: add missing semicolon in spawn task](https://github.com/VerdantGolemMC/VerdantGolem/commit/aade6172609e56618533256e3d57d900154f40d8)
-- `08-24 20:44` 在 [Pumpkin-MC/Pumpkin](https://github.com/Pumpkin-MC/Pumpkin) 合并 [#2960 feat(pumpkin): add /reload command](https://github.com/Pumpkin-MC/Pumpkin/pull/2960)
-- `08-24 16:52` 在 [Pumpkin](https://github.com/Mcxiaocaibug/Pumpkin) 提交 [feat(pumpkin): add /reload command](https://github.com/Mcxiaocaibug/Pumpkin/commit/1c814d9fa08eef13000d1d8f81ad93cc1789ad9d)
+- `08-29 10:54` 在 [VerdantGolemMC/VerdantGolem](https://github.com/VerdantGolemMC/VerdantGolem) 提交 [fix: rename leftover pumpkin crate paths from upstream merge](https://github.com/VerdantGolemMC/VerdantGolem/commit/da3301a806b0f30d2d4de83049edb846654e3432)
+- `08-29 09:58` 在 [VerdantGolemMC/VerdantGolem](https://github.com/VerdantGolemMC/VerdantGolem) 提交 [ci: Cargo.lock tracks upstream in sync auto-resolution](https://github.com/VerdantGolemMC/VerdantGolem/commit/ac89de63305e04c1a48a16be712a85dee67d41e4)
+- `08-29 09:45` 在 [VerdantGolemMC/VerdantGolem](https://github.com/VerdantGolemMC/VerdantGolem) 提交 [ci: automated daily upstream sync with rename-aware merge policy](https://github.com/VerdantGolemMC/VerdantGolem/commit/e6eda410665bff24631b2fdd1e05a91452a102d7)
+- `08-29 12:57` 在 [VerdantGolemMC/VerdantGolem](https://github.com/VerdantGolemMC/VerdantGolem) 提交 [fix: regenerate Cargo.lock workspace entries for verdantgolem package na](https://github.com/VerdantGolemMC/VerdantGolem/commit/a0ecd4d59e13f55e0cc331733aac35afd04d06c8)
+- `08-28 12:15` 在 [VerdantGolemMC/VerdantGolem](https://github.com/VerdantGolemMC/VerdantGolem) 提交 [merge: sync upstream Pumpkin (37 commits) into VerdantGolem](https://github.com/VerdantGolemMC/VerdantGolem/commit/ff00020b283f4dc6043d2befa2790dd390d9feb1)
 <!-- RECENT_WORK:END -->
 
 ### 两件作品
