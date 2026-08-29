@@ -11,11 +11,11 @@
 ### 最近在写
 
 <!-- RECENT_WORK:START -->
+- `08-28 21:31` 在 [VerdantGolemMC/VerdantGolem](https://github.com/VerdantGolemMC/VerdantGolem) 提交 [fix: restore PumpkinMetadata identifier and player command clippy nits](https://github.com/VerdantGolemMC/VerdantGolem/commit/df639ab23d178d4f449d027f1f90077235eebdcf)
+- `08-29 19:38` 在 [VerdantGolemMC/VerdantGolem](https://github.com/VerdantGolemMC/VerdantGolem) 提交 [fix: if_not_else in primer_velocity](https://github.com/VerdantGolemMC/VerdantGolem/commit/c52839ee30993c9128567071dac48a77c4d66d91)
+- `08-29 19:32` 在 [VerdantGolemMC/VerdantGolem](https://github.com/VerdantGolemMC/VerdantGolem) 提交 [fix: remaining review fixes + upstream-sync hardening](https://github.com/VerdantGolemMC/VerdantGolem/commit/47e2d652e725006852d95123c294caee9e502b4b)
+- `08-29 13:02` 在 [VerdantGolemMC/VerdantGolem](https://github.com/VerdantGolemMC/VerdantGolem) 提交 [fix: merge duplicate [default.extend-words tables in typos.toml](https://github.com/VerdantGolemMC/VerdantGolem/commit/67581559d70a3739645433409fa40859866ebe0f)
 - `08-29 10:54` 在 [VerdantGolemMC/VerdantGolem](https://github.com/VerdantGolemMC/VerdantGolem) 提交 [fix: rename leftover pumpkin crate paths from upstream merge](https://github.com/VerdantGolemMC/VerdantGolem/commit/da3301a806b0f30d2d4de83049edb846654e3432)
-- `08-29 09:58` 在 [VerdantGolemMC/VerdantGolem](https://github.com/VerdantGolemMC/VerdantGolem) 提交 [ci: Cargo.lock tracks upstream in sync auto-resolution](https://github.com/VerdantGolemMC/VerdantGolem/commit/ac89de63305e04c1a48a16be712a85dee67d41e4)
-- `08-29 09:45` 在 [VerdantGolemMC/VerdantGolem](https://github.com/VerdantGolemMC/VerdantGolem) 提交 [ci: automated daily upstream sync with rename-aware merge policy](https://github.com/VerdantGolemMC/VerdantGolem/commit/e6eda410665bff24631b2fdd1e05a91452a102d7)
-- `08-29 12:57` 在 [VerdantGolemMC/VerdantGolem](https://github.com/VerdantGolemMC/VerdantGolem) 提交 [fix: regenerate Cargo.lock workspace entries for verdantgolem package na](https://github.com/VerdantGolemMC/VerdantGolem/commit/a0ecd4d59e13f55e0cc331733aac35afd04d06c8)
-- `08-28 12:15` 在 [VerdantGolemMC/VerdantGolem](https://github.com/VerdantGolemMC/VerdantGolem) 提交 [merge: sync upstream Pumpkin (37 commits) into VerdantGolem](https://github.com/VerdantGolemMC/VerdantGolem/commit/ff00020b283f4dc6043d2befa2790dd390d9feb1)
 <!-- RECENT_WORK:END -->
 
 ### 两件作品
