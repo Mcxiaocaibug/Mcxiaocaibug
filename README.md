@@ -11,11 +11,11 @@
 ### 最近在写
 
 <!-- RECENT_WORK:START -->
+- `08-29 19:25` 在 [VerdantGolemMC/VerdantGolem](https://github.com/VerdantGolemMC/VerdantGolem) 提交 [fix: apply carpet-review findings (10-agent audit)](https://github.com/VerdantGolemMC/VerdantGolem/commit/6e4291b75a657a3fcf08589dacf3abc72eacb5f7)
+- `08-28 21:38` 在 [VerdantGolemMC/VerdantGolem](https://github.com/VerdantGolemMC/VerdantGolem) 提交 [fix: move name into spawn task instead of redundant clone](https://github.com/VerdantGolemMC/VerdantGolem/commit/b95788f574efa3fe3ec8b294ac16af539ebd489c)
 - `08-28 21:31` 在 [VerdantGolemMC/VerdantGolem](https://github.com/VerdantGolemMC/VerdantGolem) 提交 [fix: restore PumpkinMetadata identifier and player command clippy nits](https://github.com/VerdantGolemMC/VerdantGolem/commit/df639ab23d178d4f449d027f1f90077235eebdcf)
 - `08-29 19:38` 在 [VerdantGolemMC/VerdantGolem](https://github.com/VerdantGolemMC/VerdantGolem) 提交 [fix: if_not_else in primer_velocity](https://github.com/VerdantGolemMC/VerdantGolem/commit/c52839ee30993c9128567071dac48a77c4d66d91)
 - `08-29 19:32` 在 [VerdantGolemMC/VerdantGolem](https://github.com/VerdantGolemMC/VerdantGolem) 提交 [fix: remaining review fixes + upstream-sync hardening](https://github.com/VerdantGolemMC/VerdantGolem/commit/47e2d652e725006852d95123c294caee9e502b4b)
-- `08-29 13:02` 在 [VerdantGolemMC/VerdantGolem](https://github.com/VerdantGolemMC/VerdantGolem) 提交 [fix: merge duplicate [default.extend-words tables in typos.toml](https://github.com/VerdantGolemMC/VerdantGolem/commit/67581559d70a3739645433409fa40859866ebe0f)
-- `08-29 10:54` 在 [VerdantGolemMC/VerdantGolem](https://github.com/VerdantGolemMC/VerdantGolem) 提交 [fix: rename leftover pumpkin crate paths from upstream merge](https://github.com/VerdantGolemMC/VerdantGolem/commit/da3301a806b0f30d2d4de83049edb846654e3432)
 <!-- RECENT_WORK:END -->
 
 ### 两件作品
