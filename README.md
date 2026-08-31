@@ -11,11 +11,11 @@
 ### 最近在写
 
 <!-- RECENT_WORK:START -->
+- `08-29 11:33` 在 [VerdantGolemMC/VerdantGolem](https://github.com/VerdantGolemMC/VerdantGolem) 提交 [fix: remaining Local match arms and supports_player_loaded type](https://github.com/VerdantGolemMC/VerdantGolem/commit/d324a4c8c26fd36400f65b7fe879866b02a11606)
+- `08-29 11:17` 在 [VerdantGolemMC/VerdantGolem](https://github.com/VerdantGolemMC/VerdantGolem) 提交 [fix: restore carpet hooks overwritten by upstream merge](https://github.com/VerdantGolemMC/VerdantGolem/commit/f887b59abbf80ac41ca930920be5c72151615ea3)
 - `08-29 19:25` 在 [VerdantGolemMC/VerdantGolem](https://github.com/VerdantGolemMC/VerdantGolem) 提交 [fix: apply carpet-review findings (10-agent audit)](https://github.com/VerdantGolemMC/VerdantGolem/commit/6e4291b75a657a3fcf08589dacf3abc72eacb5f7)
 - `08-28 21:38` 在 [VerdantGolemMC/VerdantGolem](https://github.com/VerdantGolemMC/VerdantGolem) 提交 [fix: move name into spawn task instead of redundant clone](https://github.com/VerdantGolemMC/VerdantGolem/commit/b95788f574efa3fe3ec8b294ac16af539ebd489c)
 - `08-28 21:31` 在 [VerdantGolemMC/VerdantGolem](https://github.com/VerdantGolemMC/VerdantGolem) 提交 [fix: restore PumpkinMetadata identifier and player command clippy nits](https://github.com/VerdantGolemMC/VerdantGolem/commit/df639ab23d178d4f449d027f1f90077235eebdcf)
-- `08-29 19:38` 在 [VerdantGolemMC/VerdantGolem](https://github.com/VerdantGolemMC/VerdantGolem) 提交 [fix: if_not_else in primer_velocity](https://github.com/VerdantGolemMC/VerdantGolem/commit/c52839ee30993c9128567071dac48a77c4d66d91)
-- `08-29 19:32` 在 [VerdantGolemMC/VerdantGolem](https://github.com/VerdantGolemMC/VerdantGolem) 提交 [fix: remaining review fixes + upstream-sync hardening](https://github.com/VerdantGolemMC/VerdantGolem/commit/47e2d652e725006852d95123c294caee9e502b4b)
 <!-- RECENT_WORK:END -->
 
 ### 两件作品
