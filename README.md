@@ -11,11 +11,11 @@
 ### 最近在写
 
 <!-- RECENT_WORK:START -->
+- `09-12 19:34` 在 [VerdantGolemMC/VerdantGolem](https://github.com/VerdantGolemMC/VerdantGolem) 发起 [#1 feat: technical survival completion and verified upstream sync](https://github.com/VerdantGolemMC/VerdantGolem/pull/1)
 - `08-29 18:14` 在 [komari-mysql](https://github.com/Mcxiaocaibug/komari-mysql) 提交 [fix: support upstream jsruntime tests on macOS](https://github.com/Mcxiaocaibug/komari-mysql/commit/835bbd413315a157cdd097c745a365ab8034b50f)
 - `08-29 11:33` 在 [VerdantGolemMC/VerdantGolem](https://github.com/VerdantGolemMC/VerdantGolem) 提交 [fix: remaining Local match arms and supports_player_loaded type](https://github.com/VerdantGolemMC/VerdantGolem/commit/d324a4c8c26fd36400f65b7fe879866b02a11606)
 - `08-29 11:17` 在 [VerdantGolemMC/VerdantGolem](https://github.com/VerdantGolemMC/VerdantGolem) 提交 [fix: restore carpet hooks overwritten by upstream merge](https://github.com/VerdantGolemMC/VerdantGolem/commit/f887b59abbf80ac41ca930920be5c72151615ea3)
 - `08-29 19:25` 在 [VerdantGolemMC/VerdantGolem](https://github.com/VerdantGolemMC/VerdantGolem) 提交 [fix: apply carpet-review findings (10-agent audit)](https://github.com/VerdantGolemMC/VerdantGolem/commit/6e4291b75a657a3fcf08589dacf3abc72eacb5f7)
-- `08-28 21:38` 在 [VerdantGolemMC/VerdantGolem](https://github.com/VerdantGolemMC/VerdantGolem) 提交 [fix: move name into spawn task instead of redundant clone](https://github.com/VerdantGolemMC/VerdantGolem/commit/b95788f574efa3fe3ec8b294ac16af539ebd489c)
 <!-- RECENT_WORK:END -->
 
 ### 两件作品
