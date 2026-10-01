@@ -15,7 +15,6 @@
 - `09-30 20:30` 在 [Pumpkin](https://github.com/Mcxiaocaibug/Pumpkin) 提交 [fix(command): update perf for synchronous execution](https://github.com/Mcxiaocaibug/Pumpkin/commit/5b916f4d30ced780cc2bdc6734d677a6a060700a)
 - `09-12 21:13` 在 [VerdantGolemMC/VerdantGolem](https://github.com/VerdantGolemMC/VerdantGolem) 提交 [fix: gate post-commit sync errors on supported platforms](https://github.com/VerdantGolemMC/VerdantGolem/commit/4ff9d1eea516a6eec332abca22dead5ad17a2187)
 - `09-12 19:34` 在 [VerdantGolemMC/VerdantGolem](https://github.com/VerdantGolemMC/VerdantGolem) 发起 [#1 feat: technical survival completion and verified upstream sync](https://github.com/VerdantGolemMC/VerdantGolem/pull/1)
-- `08-29 18:14` 在 [komari-mysql](https://github.com/Mcxiaocaibug/komari-mysql) 提交 [fix: support upstream jsruntime tests on macOS](https://github.com/Mcxiaocaibug/komari-mysql/commit/835bbd413315a157cdd097c745a365ab8034b50f)
 <!-- RECENT_WORK:END -->
 
 ### 两件作品
