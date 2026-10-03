@@ -1,6 +1,9 @@
 <p align="center">
   <a href="https://mcxiaocaibug.github.io">
-    <img src="./assets/profile-banner.png" width="100%" alt="Mcxiaocaibug — 写代码，也写风与月。" />
+    <picture>
+      <source media="(prefers-reduced-motion: reduce)" srcset="./assets/profile-banner.png" />
+      <img src="./assets/profile-banner.svg" width="100%" alt="Mcxiaocaibug — 写代码，也写风与月。Maple Mono 字体、动态星空与月面轨道。" />
+    </picture>
   </a>
 </p>
 
