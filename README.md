@@ -14,11 +14,11 @@
 ### 最近在写
 
 <!-- RECENT_WORK:START -->
+- `10-02 21:42` 在 [Pumpkin](https://github.com/Mcxiaocaibug/Pumpkin) 提交 [fix(config): preserve Velocity secret whitespace after core split](https://github.com/Mcxiaocaibug/Pumpkin/commit/7630e609abe9c6764da3df1f468bddc9fa1dbb4d)
+- `10-02 21:31` 在 [Pumpkin](https://github.com/Mcxiaocaibug/Pumpkin) 提交 [fix(command): migrate perf to pumpkin-core](https://github.com/Mcxiaocaibug/Pumpkin/commit/b868c8d5585f7b5b0ca6a28e344f5ca123fb4864)
 - `10-02 21:34` 在 [Pumpkin](https://github.com/Mcxiaocaibug/Pumpkin) 提交 [fix(piston): migrate block swap fixes to pumpkin-core](https://github.com/Mcxiaocaibug/Pumpkin/commit/95f71a1a4c5d8cc5886bd3336228e712413b16c9)
 - `10-01 19:41` 在 [Pumpkin-MC/Pumpkin](https://github.com/Pumpkin-MC/Pumpkin) 发起 [#3832 feat(config): support file-based Velocity forwarding secrets](https://github.com/Pumpkin-MC/Pumpkin/pull/3832)
 - `09-30 20:42` 在 [Pumpkin](https://github.com/Mcxiaocaibug/Pumpkin) 提交 [fix(piston): update block swap fixes for current server](https://github.com/Mcxiaocaibug/Pumpkin/commit/c51f8ddb44e9ebe4e4c0e42217e5017cfcecfc52)
-- `09-30 20:30` 在 [Pumpkin](https://github.com/Mcxiaocaibug/Pumpkin) 提交 [fix(command): update perf for synchronous execution](https://github.com/Mcxiaocaibug/Pumpkin/commit/5b916f4d30ced780cc2bdc6734d677a6a060700a)
-- `09-12 21:13` 在 [VerdantGolemMC/VerdantGolem](https://github.com/VerdantGolemMC/VerdantGolem) 提交 [fix: gate post-commit sync errors on supported platforms](https://github.com/VerdantGolemMC/VerdantGolem/commit/4ff9d1eea516a6eec332abca22dead5ad17a2187)
 <!-- RECENT_WORK:END -->
 
 ### 两件作品
