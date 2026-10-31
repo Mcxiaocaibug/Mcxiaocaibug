@@ -18,7 +18,6 @@
 - `10-02 21:42` 在 [Pumpkin](https://github.com/Mcxiaocaibug/Pumpkin) 提交 [fix(config): preserve Velocity secret whitespace after core split](https://github.com/Mcxiaocaibug/Pumpkin/commit/7630e609abe9c6764da3df1f468bddc9fa1dbb4d)
 - `10-02 21:31` 在 [Pumpkin](https://github.com/Mcxiaocaibug/Pumpkin) 提交 [fix(command): migrate perf to pumpkin-core](https://github.com/Mcxiaocaibug/Pumpkin/commit/b868c8d5585f7b5b0ca6a28e344f5ca123fb4864)
 - `10-02 21:34` 在 [Pumpkin](https://github.com/Mcxiaocaibug/Pumpkin) 提交 [fix(piston): migrate block swap fixes to pumpkin-core](https://github.com/Mcxiaocaibug/Pumpkin/commit/95f71a1a4c5d8cc5886bd3336228e712413b16c9)
-- `10-01 19:41` 在 [Pumpkin-MC/Pumpkin](https://github.com/Pumpkin-MC/Pumpkin) 发起 [#3832 feat(config): support file-based Velocity forwarding secrets](https://github.com/Pumpkin-MC/Pumpkin/pull/3832)
 <!-- RECENT_WORK:END -->
 
 ### 两件作品
