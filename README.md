@@ -15,8 +15,6 @@
 
 <!-- RECENT_WORK:START -->
 - `10-03 20:41` 在 [Mcxiaocaibug.github.io](https://github.com/Mcxiaocaibug/Mcxiaocaibug.github.io) 提交 [feat: unify cosmic visuals, live GitHub telemetry and Maple Mono](https://github.com/Mcxiaocaibug/Mcxiaocaibug.github.io/commit/005bd9d0943ff953ae28b49c6b108870123928a7)
-- `10-02 21:42` 在 [Pumpkin](https://github.com/Mcxiaocaibug/Pumpkin) 提交 [fix(config): preserve Velocity secret whitespace after core split](https://github.com/Mcxiaocaibug/Pumpkin/commit/7630e609abe9c6764da3df1f468bddc9fa1dbb4d)
-- `10-02 21:31` 在 [Pumpkin](https://github.com/Mcxiaocaibug/Pumpkin) 提交 [fix(command): migrate perf to pumpkin-core](https://github.com/Mcxiaocaibug/Pumpkin/commit/b868c8d5585f7b5b0ca6a28e344f5ca123fb4864)
 <!-- RECENT_WORK:END -->
 
 ### 两件作品
