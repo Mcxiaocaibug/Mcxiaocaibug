@@ -14,7 +14,7 @@
 ### 最近在写
 
 <!-- RECENT_WORK:START -->
-- `10-03 20:41` 在 [Mcxiaocaibug.github.io](https://github.com/Mcxiaocaibug/Mcxiaocaibug.github.io) 提交 [feat: unify cosmic visuals, live GitHub telemetry and Maple Mono](https://github.com/Mcxiaocaibug/Mcxiaocaibug.github.io/commit/005bd9d0943ff953ae28b49c6b108870123928a7)
+- 最近没有新的公开提交；可能正在安静地构思下一行。
 <!-- RECENT_WORK:END -->
 
 ### 两件作品
